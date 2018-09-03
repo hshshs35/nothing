@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 just wild beat
+=======
+what
+>>>>>>> dev
